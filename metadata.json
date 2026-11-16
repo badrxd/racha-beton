@@ -1,0 +1,6 @@
+{
+  "name": "RACHA BÉTON",
+  "description": "Revêtements extérieurs et rénovation de sols au Maroc : béton imprimé, béton lissé, béton désactivé, résine époxy et tlemis à Casablanca et Benslimane.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

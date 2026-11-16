@@ -1,0 +1,276 @@
+{
+  "services": [
+    {
+      "id": "beton-imprime",
+      "index": "01.",
+      "imageKey": "beton-imprime",
+      "title": "Béton Imprimé",
+      "photos": [
+        {
+          "url": "https://www.francethisway.com/images/places/rennes.jpg",
+          "title": "Allée de villa en pavé éventail",
+          "spec": "Teinte terre cuite & bordure anthracite"
+        },     {
+          "url": "https://www.francethisway.com/images/places/rennes.jpg",
+          "title": "Allée de villa en pavé éventail",
+          "spec": "Teinte terre cuite & bordure anthracite"
+        },     {
+          "url": "https://www.francethisway.com/images/places/rennes.jpg",
+          "title": "Allée de villa en pavé éventail",
+          "spec": "Teinte terre cuite & bordure anthracite"
+        },     {
+          "url": "https://www.francethisway.com/images/places/rennes.jpg",
+          "title": "Allée de villa en pavé éventail",
+          "spec": "Teinte terre cuite & bordure anthracite"
+        },     {
+          "url": "https://www.francethisway.com/images/places/rennes.jpg",
+          "title": "Allée de villa en pavé éventail",
+          "spec": "Teinte terre cuite & bordure anthracite"
+        }
+      ],
+      "subtitle": "La beauté de la pierre et la force du béton",
+      "description": "Allées de villas, terrasses, contours de piscine et rosaces décoratives moulés sur béton frais avec durcisseur coloré et résine anti-UV.",
+      "highlights": [
+        "Résiste aux UV et au trafic",
+        "6 motifs personnalisables",
+        "Finition brillante ou satinée"
+      ]
+    },
+    {
+      "id": "beton-lisse",
+      "index": "02.",
+      "imageKey": "beton-lisse",
+      "title": "Béton Lissé",
+      "subtitle": "Surfaces architecturales épurées et durables",
+      "description": "Dallages contemporains, escaliers monoblocs, cours et parkings avec joints de dilatation nets et finition hélicoptère ou brossée.",
+      "highlights": [
+        "Planéité et joints précis",
+        "Entretien rapide au quotidien",
+        "Idéal cours et garages"
+      ]
+    },
+    {
+      "id": "beton-desactive",
+      "index": "03.",
+      "imageKey": "beton-desactive",
+      "title": "Béton Désactivé",
+      "subtitle": "Aspect gravier naturel antidérapant",
+      "description": "Chemins de jardin, rampes d’accès et abords extérieurs révélant le granulat naturel sélectionné pour une adhérence optimale par tout temps.",
+      "highlights": [
+        "Surface antidérapante naturelle",
+        "Granulats triés et durables",
+        "Intégration paysagère soignée"
+      ]
+    },
+    {
+      "id": "beton-cire",
+      "index": "04.",
+      "imageKey": "beton-cire",
+      "title": "Béton Ciré",
+      "subtitle": "Sols continus minéraux à l’intérieur comme en terrasse",
+      "description": "Revêtement décoratif millimétrique sans joints pour salons, cuisines, salles de bain, escaliers et murs, offrant un rendu chaleureux et soyeux.",
+      "highlights": [
+        "Aspect minéral continu sans joints",
+        "Compatible neuf ou rénovation",
+        "Protection hydrofuge et anti-taches"
+      ]
+    },
+    {
+      "id": "resine-epoxy",
+      "index": "05.",
+      "imageKey": "resine-epoxy",
+      "title": "Résine Époxy",
+      "subtitle": "Sols continus sans joints, effet miroir ou satiné",
+      "description": "Revêtement haute résistance pour garages privés, showrooms, ateliers et intérieurs modernes offrant étanchéité et nettoyage sans effort.",
+      "highlights": [
+        "Sans joints ni poussière",
+        "Résiste aux chocs et huiles",
+        "Finitions unies ou métallisées"
+      ]
+    },
+    {
+      "id": "renovation-tlemis",
+      "index": "06.",
+      "imageKey": "renovation-tlemis",
+      "title": "Rénovation & Tlemis",
+      "subtitle": "Pavés, Kijmat, Bejmat, Béton imprimé & Béton lissé",
+      "description": "Redonnez vie à vos anciens sols sans tout remplacer : nettoyage haute pression en profondeur, polissage, ravivage des couleurs et vernis protecteur.",
+      "highlights": [
+        "Économique sans démolition",
+        "Ravivage des teintes d’origine",
+        "Vernis protecteur anti-intempéries"
+      ]
+    },
+    {
+      "id": "descente-garage",
+      "index": "07.",
+      "imageKey": "descente-garage",
+      "title": "Descente de garage",
+      "subtitle": "Rampes d’accès carrossables rainurées et antidérapantes",
+      "description": "Conception et coulage de pentes d’accès sous-sol avec stries en chevron ou finition striée haute adhérence pour véhicules par temps sec ou pluvieux.",
+      "highlights": [
+        "Adhérence renforcée en forte pente",
+        "Béton armé haute résistance",
+        "Drainage et finition sur mesure"
+      ]
+    }
+  ],
+  "jobScopes": [
+    {
+      "serviceId": "beton-imprime",
+      "completedSummary": "Allées de villas en pavé éventail, esplanades avec rosace centrale et plages de piscine effet bois.",
+      "photos": [
+        {
+          "url": "hero",
+          "title": "Allée de villa en pavé éventail",
+          "spec": "Teinte terre cuite & bordure anthracite"
+        },
+        {
+          "url": "beton-imprime",
+          "title": "Esplanade pierre avec rosace centrale",
+          "spec": "Dallage pierre naturelle & rosace bicolore"
+        },
+        {
+          "url": "pool-wood",
+          "title": "Contour de piscine effet bois",
+          "spec": "Lames bois bétonnées · Antidérapant"
+        }
+      ],
+      "upcomingSteps": [
+        "Préparation, nivellement, compactage et pose du treillis soudé adapté au passage véhicule ou piéton.",
+        "Coulage du béton structurant et saupoudrage du durcisseur coloré teinté dans la masse.",
+        "Impression sur béton frais avec le motif choisi (pierre, pavé, ardoise, bois, brique ou dalle).",
+        "Lavage, découpe des joints de dilatation et application de deux couches de résine protectrice anti-UV."
+      ],
+      "idealSpaces": "Allées carrossables · Terrasses · Contours de piscine · Cours de villas"
+    },
+    {
+      "serviceId": "beton-lisse",
+      "completedSummary": "Dallages architecturaux contemporains, terrasses épurées et escaliers monoblocs avec joints sciés nets.",
+      "photos": [
+        {
+          "url": "beton-lisse",
+          "title": "Cour architecturale et escalier monobloc",
+          "spec": "Béton gris clair · Joints de dilatation sciés"
+        },
+        {
+          "url": "beton-lisse-terrace",
+          "title": "Terrasse contemporaine talochée",
+          "spec": "Finition lissée mate & découpes géométriques"
+        }
+      ],
+      "upcomingSteps": [
+        "Réglage des pentes d’écoulement et coffrage périphérique de précision.",
+        "Coulage du béton tiré à la règle puis talochage mécanique à l’hélicoptère ou finition brossée.",
+        "Sciage géométrique des joints de retrait pour prévenir toute fissuration aléatoire.",
+        "Application d’un produit de cure et protection hydrofuge/oléofuge."
+      ],
+      "idealSpaces": "Cours modernes · Terrasses · Garages · Parkings · Esplanades commerciales"
+    },
+    {
+      "serviceId": "beton-desactive",
+      "completedSummary": "Chemins paysagers, allées de jardin et rampes extérieures en granulats naturels lavés.",
+      "photos": [
+        {
+          "url": "beton-desactive",
+          "title": "Chemin paysager en granulats lavés",
+          "spec": "Galets ocre et crème · Adhérence naturelle"
+        }
+      ],
+      "upcomingSteps": [
+        "Sélection de granulats naturels calibrés (ocre, crème, gris ou basalte) selon l’architecture.",
+        "Mise en œuvre du béton avec désactivant de surface pour bloquer la prise en peau.",
+        "Lavage haute pression maîtrisé afin de révéler uniformément les graviers en relief.",
+        "Protection finale anti-mousse et anti-taches pour préserver l’éclat minéral."
+      ],
+      "idealSpaces": "Allées de jardin · Trottoirs · Rampes extérieures · Abords de villas"
+    },
+    {
+      "serviceId": "beton-cire",
+      "completedSummary": "Sols minéraux continus sans joints en teinte pierre chaude dans des salons, cuisines et escaliers contemporains.",
+      "photos": [
+        {
+          "url": "beton-cire",
+          "title": "Salon et hall en béton ciré minéral",
+          "spec": "Teinte pierre chaude · Vernis polyuréthane mat"
+        },
+        {
+          "url": "beton-cire-stairs",
+          "title": "Escalier et cuisine ouverte sans joints",
+          "spec": "Micro-ciment taloché taupe · Finition soyeuse"
+        }
+      ],
+      "upcomingSteps": [
+        "Diagnostic du support existant (chape ou ancien carrelage), ponçage et primaire d’accrochage avec trame.",
+        "Application de deux couches de béton ciré fin taloché à la main dans la teinte sur mesure.",
+        "Ponçage de finition pour révéler les nuances minérales naturelles sans raccords.",
+        "Application du bouche-pores et de deux passes de vernis polyuréthane haute résistance."
+      ],
+      "idealSpaces": "Salons · Cuisines · Salles de bain · Escaliers intérieurs · Boutiques"
+    },
+    {
+      "serviceId": "resine-epoxy",
+      "completedSummary": "Sols auto-lissants haute brillance pour garages privés, ateliers et showrooms automobiles.",
+      "photos": [
+        {
+          "url": "resine-epoxy",
+          "title": "Garage showroom en résine continue",
+          "spec": "Anthracite métallisé · Haute brillance"
+        }
+      ],
+      "upcomingSteps": [
+        "Grenaillage ou ponçage diamant du béton brut pour ouvrir la porosité et garantir l’ancrage.",
+        "Réparation des fissures, ragréage localisé et couche de primaire époxy pare-vapeur.",
+        "Coulage de la résine époxy auto-lissante unie, pailletée ou métallisée sans aucun joint.",
+        "Vernis de finition anti-rayures résistant aux pneus chauds, hydrocarbures et lavages."
+      ],
+      "idealSpaces": "Garages privés · Showrooms · Ateliers · Locaux industriels & médicaux"
+    },
+    {
+      "serviceId": "descente-garage",
+      "completedSummary": "Rampes d’accès sous-sol rainurées en chevron et ardoise striée pour une adhérence maximale par tout temps.",
+      "photos": [
+        {
+          "url": "descente-garage",
+          "title": "Descente de garage rainurée en chevron",
+          "spec": "Striage chevron · Béton armé antidérapant"
+        },
+        {
+          "url": "descente-garage-pave",
+          "title": "Rampe d’accès sous-sol ardoise striée",
+          "spec": "Béton imprimé ardoise · Pente antidérapante"
+        }
+      ],
+      "upcomingSteps": [
+        "Étude de la pente, évacuation des eaux pluviales en pied de rampe et ferraillage renforcé.",
+        "Coulage d’un béton fibré haute résistance dosé pour les contraintes de traction et freinage.",
+        "Réalisation d’un striage en chevron, balayé profond ou motif imprimé antidérapant.",
+        "Traitement protecteur contre les huiles moteurs, les UV et l’usure des pneus."
+      ],
+      "idealSpaces": "Entrées de sous-sol · Rampes de parking · Accès en forte déclivité"
+    },
+    {
+      "serviceId": "renovation-tlemis",
+      "completedSummary": "Réhabilitation de pavés anciens, bejmat émaillé, kijmat et bétons imprimés ternis sans démolition.",
+      "photos": [
+        {
+          "url": "renovation-tlemis",
+          "title": "Rénovation de pavés autobloquants",
+          "spec": "Décapage profond & vernis protecteur brillant"
+        },
+        {
+          "url": "tlemis-bejmat",
+          "title": "Tlemis et protection de bejmat vert",
+          "spec": "Ravivage d’éclat & traitement hydrofuge"
+        }
+      ],
+      "upcomingSteps": [
+        "Décapage et nettoyage haute pression en profondeur pour éliminer mousses, graisses et voiles ternes.",
+        "Polissage et remise en état des joints ou micro-réparations de surface.",
+        "Ravivage des couleurs d’origine pour retrouver l’aspect neuf de la pierre ou du pavé.",
+        "Application d’un vernis protecteur brillant ou satiné résistant aux intempéries."
+      ],
+      "idealSpaces": "Pavés autobloquants · Kijmat · Bejmat · Ancien béton imprimé ou lissé"
+    }
+  ]
+}
